@@ -1,1 +1,1 @@
-Proje durumu: Geliştirme tamamlandı.
+Proje durumu: Geliştirme tamamlandı, test aşamasında.
